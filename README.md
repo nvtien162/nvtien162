@@ -6,18 +6,16 @@
   <br />
 
   <p>
-    <a href="https://linkedin.com/in/USERNAME">
+    <a href="https://linkedin.com/in/tien-dev1602">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:[tienvannguyen.dev@gmail.com]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://nvtien-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Visitor Count" />
 </div>
 
 ---
@@ -80,27 +78,6 @@ An AI-powered SaaS platform that assists in spatial design and planning, offerin
 My personal space on the internet where I showcase my work, experience, and skills.
 
 - **Link:** [nvtien-portfolio.vercel.app](https://nvtien-portfolio.vercel.app)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvtien162&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvtien162&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvtien162&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6&sideNums=777777&sideLabels=777777&ring=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvtien162&theme=transparent&hide_border=true&color=3B82F6&line=3B82F6&point=777777&bg_color=transparent" alt="GitHub Activity Graph" width="100%" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
